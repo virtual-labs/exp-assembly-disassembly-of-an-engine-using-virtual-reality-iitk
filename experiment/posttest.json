@@ -2,37 +2,53 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The connecting rod connects piston to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Crankshaft",
+        "b": "Camshaft",
+        "c": "Flywheel"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+   {
+      "question": "Which part controls air-fuel mixture entry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Crankshaft",
+        "b": "Valve",
+        "c": "Piston"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In diesel engines, fuel ignition occurs due to:",
+      "answers": {
+        "a": "Spark plug",
+        "b": "High compression",
+        "c": "Flywheel"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The function of camshaft is to:",
+      "answers": {
+        "a": "Convert motion",
+        "b": "Operate valves",
+        "c": "Store energy"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Virtual reality in engine study helps in:",
+      "answers": {
+        "a": "Costly experiments",
+        "b": "Safe and repeatable visualization",
+        "c": "Increasing fuel consumption"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
