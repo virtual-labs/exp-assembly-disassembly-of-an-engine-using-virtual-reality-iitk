@@ -2,37 +2,53 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The piston transfers power to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Camshaft",
+        "b": "Crankshaft ",
+        "c": "Flywheel"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which part stores rotational energy to smoothen power output?",
+      "answers": {
+        "a": "Cylinder",
+        "b": "Flywheel ",
+        "c": "Valve"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "Inlet valves are used for:",
+      "answers": {
+        "a": "Allowing exhaust gases out",
+        "b": "Allowing air-fuel mixture in",
+        "c": "Igniting the mixture"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "The component that synchronizes valve movement is:",
+      "answers": {
+        "a": "Camshaft",
+        "b": "Crankshaft",
+        "c": "Connecting Rod"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+      {
+      "question": "In petrol engines, ignition is caused by:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Spark Plug",
+        "b": "Fuel Injector",
+        "c": "Exhaust Valve"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
