@@ -2,51 +2,87 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The piston transfers power to:",
+      "question": "1. The piston transfers power to:",
       "answers": {
         "a": "Camshaft",
         "b": "Crankshaft ",
-        "c": "Flywheel"
+        "c": "Flywheel",
+        "d": "Timing Belt"
       },
+      "explanations": {
+        "a": "Explanation",
+        "b": "The piston converts combustion energy into linear motion, which is transferred to the crankshaft to produce rotational motion. ",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "Which part stores rotational energy to smoothen power output?",
+      "question": "2. Which part stores rotational energy to smoothen power output?",
       "answers": {
         "a": "Cylinder",
         "b": "Flywheel ",
-        "c": "Valve"
+        "c": "Valve",
+        "d": "Clutch"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "The flywheel stores rotational energy and helps smoothen engine power delivery. ",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
       {
-      "question": "Inlet valves are used for:",
+      "question": "3. Inlet valves are used for:",
       "answers": {
         "a": "Allowing exhaust gases out",
         "b": "Allowing air-fuel mixture in",
-        "c": "Igniting the mixture"
+        "c": "Igniting the mixture",
+        "d": "Controlling engine oil flow"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": " Inlet valves open to let the air-fuel mixture enter the combustion chamber.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
       {
-      "question": "The component that synchronizes valve movement is:",
+      "question": "4. The component that synchronizes valve movement is:",
       "answers": {
         "a": "Camshaft",
         "b": "Crankshaft",
-        "c": "Connecting Rod"
+        "c": "Connecting Rod",
+        "d": "Piston pin"
+      },
+      "explanations": {
+        "a": " The camshaft controls the timing of valve opening and closing, synchronized with piston movement.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
       {
-      "question": "In petrol engines, ignition is caused by:",
+      "question": "5. In petrol engines, ignition is caused by:",
       "answers": {
         "a": "Spark Plug",
         "b": "Fuel Injector",
-        "c": "Exhaust Valve"
+        "c": "Exhaust Valve",
+        "d": "Carburetor"
+      },
+      "explanations": {
+        "a": "In petrol engines, the spark plug ignites the air-fuel mixture to start combustion.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
