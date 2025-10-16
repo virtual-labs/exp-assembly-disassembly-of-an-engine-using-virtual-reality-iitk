@@ -2,41 +2,69 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The connecting rod connects piston to:",
+      "question": "1. The connecting rod connects piston to:",
       "answers": {
         "a": "Crankshaft",
         "b": "Camshaft",
-        "c": "Flywheel"
+        "c": "Flywheel",
+        "d": "Timing belt"
+      },
+       "explanations": {
+        "a": "The connecting rod transmits the piston’s linear motion to the crankshaft, converting it into rotational motion. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
    {
-      "question": "Which part controls air-fuel mixture entry?",
+      "question": "2. Which part controls air-fuel mixture entry?",
       "answers": {
         "a": "Crankshaft",
         "b": "Valve",
-        "c": "Piston"
+        "c": "Piston",
+        "d": "Spark plug "
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": "Inlet valves regulate the entry of air-fuel mixture into the combustion chamber.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "In diesel engines, fuel ignition occurs due to:",
+      "question": "3. In diesel engines, fuel ignition occurs due to:",
       "answers": {
         "a": "Spark plug",
         "b": "High compression",
-        "c": "Flywheel"
+        "c": "Flywheel",
+        "d": "Camshaft"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": " Diesel engines ignite fuel by compressing air to high temperatures, not using a spark plug.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "The function of camshaft is to:",
+      "question": "4. The function of camshaft is to:",
       "answers": {
         "a": "Convert motion",
         "b": "Operate valves",
-        "c": "Store energy"
+        "c": "Store energy",
+        "d": "Measure engine speed"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": "The camshaft ensures proper timing of valve opening and closing in the engine cycle.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -46,7 +74,14 @@
       "answers": {
         "a": "Costly experiments",
         "b": "Safe and repeatable visualization",
-        "c": "Increasing fuel consumption"
+        "c": "Increasing fuel consumption",
+        "d": "Replacing engine components physically"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": "VR allows students to study engine mechanisms safely, without real-world hazards or wear and tear.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
