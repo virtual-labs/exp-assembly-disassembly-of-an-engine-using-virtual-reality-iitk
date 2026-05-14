@@ -1,0 +1,1 @@
+To study the construction and working of various parts of an internal combustion (IC) engine using a Virtual Reality (VR) environment.
