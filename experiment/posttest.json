@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The connecting rod connects piston to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Crankshaft",
+        "b": "Camshaft",
+        "c": "Flywheel",
+        "d": "Timing belt"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+       "explanations": {
+        "a": "The connecting rod transmits the piston’s linear motion to the crankshaft, converting it into rotational motion. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+   {
+      "question": "2. Which part controls air-fuel mixture entry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Crankshaft",
+        "b": "Valve",
+        "c": "Piston",
+        "d": "Spark plug "
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+       "explanations": {
+        "a": "Explanation",
+        "b": "Inlet valves regulate the entry of air-fuel mixture into the combustion chamber.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In diesel engines, fuel ignition occurs due to:",
+      "answers": {
+        "a": "Spark plug",
+        "b": "High compression",
+        "c": "Flywheel",
+        "d": "Camshaft"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": " Diesel engines ignite fuel by compressing air to high temperatures, not using a spark plug.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The function of camshaft is to:",
+      "answers": {
+        "a": "Convert motion",
+        "b": "Operate valves",
+        "c": "Store energy",
+        "d": "Measure engine speed"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": "The camshaft ensures proper timing of valve opening and closing in the engine cycle.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Virtual reality in engine study helps in:",
+      "answers": {
+        "a": "Costly experiments",
+        "b": "Safe and repeatable visualization",
+        "c": "Increasing fuel consumption",
+        "d": "Replacing engine components physically"
+      },
+       "explanations": {
+        "a": "Explanation",
+        "b": "VR allows students to study engine mechanisms safely, without real-world hazards or wear and tear.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
